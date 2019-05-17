@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D2FA-462A
+
+ Directory of C:\Users\An Nguyen\Desktop\HelloGMO
+
+05/17/2019  03:33 PM    <DIR>          .
+05/17/2019  03:33 PM    <DIR>          ..
+05/17/2019  03:33 PM                 0 data.txt
+05/17/2019  03:32 PM               679 HelloWorld.class
+05/17/2019  03:32 PM               142 HelloWorld.java
+05/17/2019  03:32 PM                 0 initital.txt
+05/17/2019  03:32 PM                 0 readme.txt
+               5 File(s)            821 bytes
+               2 Dir(s)  208,616,701,952 bytes free
